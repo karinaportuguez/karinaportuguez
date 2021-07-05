@@ -1,5 +1,5 @@
-<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width = "70px"> &nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75B91&size=35&width=404&height=54&lines=Hello+World!;Bonjour+monde!;%C2%A1Hola+mundo!;+Hallo+Welt!;Ciao+mondo!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%EF%BC%81;+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%B8%D1%80!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C%EF%BC%81)](https://git.io/typing-svg)
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <!--
 **karinaportuguez/karinaportuguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
