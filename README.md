@@ -49,6 +49,11 @@ const karinaPortuguez = {
 }
 ```
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinaportuguez&theme=dracula&layout=compact)](https://github.com/karinaportuguez)
+
+
+
 -->
 
 ## :toolbox: Technologies
@@ -58,46 +63,35 @@ const karinaPortuguez = {
   <img src="https://img.shields.io/badge/Tool-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=white&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&color=10ab50&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=026e00&color=026e00&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Technology-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Technology-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Tool-StyledComponents-informational?style=flat&logo=styledcomponents&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Technology-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Technology-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnubash&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Tool-MaterialUI-informational?style=flat&logo=materialui&logoColor=white&color=2B867E&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/Technology-Typescript-informational?style=flat&logo=typescript&logoColor=2f74c0&color=2f74c0&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Technology-Javascript-informational?style=flat&logo=javascript&logoColor=f7e018&color=f7e018&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Tool-StyledComponents-informational?style=flat&logo=styledcomponents&logoColor=white&color=3d3d3d&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=007bcd&color=007bcd&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Technology-HTML5-informational?style=flat&logo=html5&logoColor=e44f26&color=e44f26&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Technology-CSS3-informational?style=flat&logo=css3&logoColor=0070ba&color=0070ba&labelColor=1A1B27" />
+  
+  
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=e6421c&color=e6421c&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=24282e&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=267ff6&color=253858&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Tool-MaterialUI-informational?style=flat&logo=materialui&logoColor=00b0ff&color=00b0ff&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=ff9900&color=ff9900&labelColor=494949" />
+  
   <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
+  
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img src="http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-Bitbucket-2088FF?style=flat-square&logo=bitbucket" />
-  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
-  <img src="http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text" />
+
+  
 </div>
 
+## Mail
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karinaportuguezh@gmail.com)](mailto:karinaportuguezh@gmail.com)
 
 
-![KarinaPortuguez GitHub stats](https://github-readme-stats.vercel.app/api?username=karinaportuguez&show_icons=true&theme=dracula)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karinaportuguez&theme=dracula&show_icons=true&repo=hyperblog)](https://github.com/karinaportuguez/hyperblog)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinaportuguez&theme=dracula&layout=compact)](https://github.com/karinaportuguez)
-
 
