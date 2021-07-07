@@ -4,7 +4,8 @@
 </a>
 </p>
 
-# Greetings <img src="./assets/shake.gif" width="30px">
+
+# Greetings, welcome to my world! <img src="https://66.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" width="45px">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 
@@ -58,7 +59,7 @@ const karinaPortuguez = {
 
 ## :toolbox: Technologies
 <div>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2B867E&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=fc8f30&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-React.js-informational?style=flat&logo=react&logoColor=23282C34&color=2088FF&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=white&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&color=10ab50&labelColor=1A1B27" />
@@ -70,6 +71,7 @@ const karinaPortuguez = {
   <img src="https://img.shields.io/badge/Technology-HTML5-informational?style=flat&logo=html5&logoColor=e44f26&color=e44f26&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Technology-CSS3-informational?style=flat&logo=css3&logoColor=0070ba&color=0070ba&labelColor=1A1B27" />
   
+  <img src="https://img.shields.io/badge/Technology-Sass-informational?style=flat&logo=sass&logoColor=white&color=white&labelColor=d56ea3" />
   
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=e6421c&color=e6421c&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=24282e&labelColor=1A1B27" />
@@ -77,7 +79,6 @@ const karinaPortuguez = {
   <img src="https://img.shields.io/badge/Tool-MaterialUI-informational?style=flat&logo=materialui&logoColor=00b0ff&color=00b0ff&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=ff9900&color=ff9900&labelColor=494949" />
   
-  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
   
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img src="http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff" />
@@ -88,10 +89,14 @@ const karinaPortuguez = {
   
 </div>
 
-## Mail
+## 💌 Mail
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karinaportuguezh@gmail.com)](mailto:karinaportuguezh@gmail.com)
 
+## 📂Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karinaportuguez&theme=dracula&show_icons=true&repo=hyperblog)](https://github.com/karinaportuguez/hyperblog)
 
+
+
+<!-- <p align="center"></p><img src="" width="45px"> -->
