@@ -97,6 +97,6 @@ const karinaPortuguez = {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karinaportuguez&theme=dracula&show_icons=true&repo=hyperblog)](https://github.com/karinaportuguez/hyperblog)
 
+##
 
-
-<!-- <p align="center"></p><img src="" width="45px"> -->
+<p align="center"><img src="./assets/giphy.gif" > </p> 
