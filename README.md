@@ -17,10 +17,11 @@ I love cats, my favorite sport is tennis, I like to take long walks, play video 
 
 
 ## :chart_with_upwards_trend: GitHub Stats
-<div style="width: 100%; display: flex; align-items:flex-start; justify-content: space-between;">
+<div style="width: 100%; display: flex; align-items:center; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=karinaportuguez&show_icons=true&theme=dracula" />
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaportuguez&langs_count=3&theme=dracula" />
 </div>
+
 
 
 <!--
