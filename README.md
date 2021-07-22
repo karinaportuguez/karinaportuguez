@@ -96,7 +96,7 @@ const karinaPortuguez = {
 
 ## 📂Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karinaportuguez&theme=dracula&show_icons=true&repo=hyperblog)](https://github.com/karinaportuguez/hyperblog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karinaportuguez&theme=dracula&show_icons=true&repo=Git-y-Github)](https://github.com/karinaportuguez/Git-y-Github)
 
 ##
 
