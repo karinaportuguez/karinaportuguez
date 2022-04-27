@@ -5,12 +5,12 @@
 </p>
 
 
-# Greetings, welcome to my world! <img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="45px"> 
+# <img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="45px">  Greetings, welcome to my world! 
 
-## <img src="https://66.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" width="45px"> About me
+##  Frontend Developer
 
 <p style="text-align: justify">
-My name is Karina Portuguez, I am Front-End Developer whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
+Hi! 👋 My name is Karina Portuguez, I'm Front-End Developer whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
 
 I like to learn a lot about technologies for web and robotics development. I like to share my knowledge and help those who need it.
 </p>
@@ -74,7 +74,7 @@ const karinaPortuguez = {
 
 -->
 
-### :chart_with_upwards_trend: Skills
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
