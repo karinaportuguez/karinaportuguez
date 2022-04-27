@@ -5,7 +5,7 @@
 </p>
 
 
-# <img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="45px">  Greetings, welcome to my world! 
+# <img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="20px">  Greetings, welcome to my world! 
 
 ##  Frontend Developer
 
@@ -18,7 +18,7 @@ I like to learn a lot about technologies for web and robotics development. I lik
 * 🌍  I'm based in Mexico
 * 🔭 I’m currently working on [Despensa en Linea](https://www.despensaenlinea.mx) and  [Mariachi .IO](https://www.mariachi.io)
 * 📫  You can contact me at karinaportuguezh@gmail.com
-* 🧠 I am perfecting my knowledge in
+* 🧠 I am perfecting my knowledge in React Js
 * 🌱 I’m currently learning Android
 * 🤝  I'm open to collaborating on interesting projects
   
