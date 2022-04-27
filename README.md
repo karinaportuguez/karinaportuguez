@@ -16,13 +16,14 @@ I like to learn a lot about technologies for web and robotics development. I lik
 </p>
 
 * 🌍  I'm based in Mexico
-* 🔭 I’m currently working on 
+* 🔭 I’m currently working on [Despensa en Linea](https://www.despensaenlinea.mx) and  [Mariachi .IO](https://www.mariachi.io)
 * 📫  You can contact me at karinaportuguezh@gmail.com
-* 🌱 I’m currently learning React Js.
+* 🧠 I am perfecting my knowledge in
+* 🌱 I’m currently learning Android
 * 🤝  I'm open to collaborating on interesting projects
   
 
-[Despensa en Linea](despensaenlinea.mx)
+
 
 <!--
 ## :chart_with_upwards_trend: GitHub Stats
@@ -64,6 +65,10 @@ const karinaPortuguez = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinaportuguez&theme=dracula&layout=compact)](https://github.com/karinaportuguez)
 
 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 
 -->
 
@@ -79,14 +84,11 @@ const karinaPortuguez = {
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
+<!--
 ## :toolbox: Technologies
 <div>
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=fc8f30&labelColor=1A1B27" />
@@ -126,7 +128,7 @@ const karinaPortuguez = {
 ## 📂Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karinaportuguez&theme=dracula&show_icons=true&repo=Git-y-Github)](https://github.com/karinaportuguez/Git-y-Github)
-
+-->
 ##
 
 <p align="center"><img src="./assets/giphy.gif" > </p> 
