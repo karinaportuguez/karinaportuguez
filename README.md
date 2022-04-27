@@ -5,12 +5,12 @@
 </p>
 
 
-# <img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="20px">  Greetings, welcome to my world! 
+# Greetings <img src="./assets/shake.gif" width="30px"> My name is Karina Portuguez.
 
 ##  Frontend Developer
 
 <p style="text-align: justify">
-Hi! 👋 My name is Karina Portuguez, I'm Front-End Developer whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
+I'm Front-End Developer whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
 
 I like to learn a lot about technologies for web and robotics development. I like to share my knowledge and help those who need it.
 </p>
@@ -26,6 +26,7 @@ I like to learn a lot about technologies for web and robotics development. I lik
 
 
 <!--
+<img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="20px">  
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ## :chart_with_upwards_trend: GitHub Stats
