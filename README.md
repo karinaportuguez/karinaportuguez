@@ -11,7 +11,6 @@ I'm <b>Front-End Developer</b> whit 3 years of experiens working whit technologi
 
 I like to learn a lot about technologies for web and robotics development. I like to share my knowledge and help those who need it.
 </p>
-##
 
 * 🌍  I'm based in Mexico
 * 🔭 I’m currently working on [Despensa en Linea](https://www.despensaenlinea.mx) and  [Mariachi .IO](https://www.mariachi.io)
