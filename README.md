@@ -153,3 +153,8 @@ const karinaPortuguez = {
 ##
 
 <p align="center"><img src="./assets/giphy.gif" > </p> 
+
+### Support Me 
+
+<a href="https://www.buymeacoffee.com/karinaport2"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
