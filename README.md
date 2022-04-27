@@ -5,9 +5,9 @@
 </p>
 
 
-# Greetings, welcome to my world! <img src="https://66.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" width="45px">
+# Greetings, welcome to my world! <img src="https://static.wixstatic.com/media/0af05e_7f0cdd615b5046c5a7bd597fc52d2401~mv2_d_1462_2506_s_2.gif" width="45px"> 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
+## <img src="https://66.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" width="45px"> About me
 
 <p style="text-align: justify">
 My name is Karina Portuguez, I am Front-End Developer whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
@@ -26,6 +26,8 @@ I like to learn a lot about technologies for web and robotics development. I lik
 
 
 <!--
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 ## :chart_with_upwards_trend: GitHub Stats
 <div style="width: 100%; display: flex; align-items:center; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=karinaportuguez&show_icons=true&theme=dracula" />
