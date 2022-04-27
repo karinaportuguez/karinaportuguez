@@ -7,7 +7,7 @@
 # Greetings <img src="./assets/shake.gif" width="30px"> My name is Karina Portuguez.
 
 <p style="text-align: justify">
-I'm <b style="color: aquamarine !important">Front-End Developer</b> whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
+I'm <font style="color: aquamarine !important">Front-End Developer</font> whit 3 years of experiens working whit technologies such as React Js, bootstrap, Javascript and Typescript. 
 
 I like to learn a lot about technologies for web and robotics development. I like to share my knowledge and help those who need it.
 </p>
