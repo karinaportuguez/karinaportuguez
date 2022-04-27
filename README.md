@@ -11,7 +11,7 @@ I'm <b>Front-End Developer</b> whit 3 years of experiens working whit technologi
 
 I like to learn a lot about technologies for web and robotics development. I like to share my knowledge and help those who need it.
 </p>
-
+##
 
 * 🌍  I'm based in Mexico
 * 🔭 I’m currently working on [Despensa en Linea](https://www.despensaenlinea.mx) and  [Mariachi .IO](https://www.mariachi.io)
@@ -73,7 +73,7 @@ const karinaPortuguez = {
 
 -->
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
