@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<img src="./assets/KaSVZO2q_400x400.jpeg">
+<img src="./assets/KaSVZO2q_400x400.jpg">
 
 
 # Greetings <img src="./assets/shake.gif" width="30px"> My name is Karina Portuguez.
