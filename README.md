@@ -15,11 +15,11 @@ My name is Karina Portuguez, I am Front-End Developer whit 3 years of experiens 
 I like to learn a lot about technologies for web and robotics development. I like to share my knowledge and help those who need it.
 </p>
 
--🌍  I'm based in Mexico
--🔭 I’m currently working on despensaenlinea.mx
--📫  You can contact me at karinaportuguezh@gmail.com
--🌱 I’m currently learning React Js.
--🤝  I'm open to collaborating on interesting projects
+* 🌍  I'm based in Mexico
+* 🔭 I’m currently working on despensaenlinea.mx
+* 📫  You can contact me at [karinaportuguezh@gmail.com(mailto:karinaportuguezh@gmail.com)
+* 🌱 I’m currently learning React Js.
+* 🤝  I'm open to collaborating on interesting projects
   
 
 
