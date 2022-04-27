@@ -16,14 +16,15 @@ I like to learn a lot about technologies for web and robotics development. I lik
 </p>
 
 * 🌍  I'm based in Mexico
-* 🔭 I’m currently working on despensaenlinea.mx
-* 📫  You can contact me at [karinaportuguezh@gmail.com(mailto:karinaportuguezh@gmail.com)
+* 🔭 I’m currently working on 
+* 📫  You can contact me at karinaportuguezh@gmail.com
 * 🌱 I’m currently learning React Js.
 * 🤝  I'm open to collaborating on interesting projects
   
 
+[Despensa en Linea](despensaenlinea.mx)
 
-
+<!--
 ## :chart_with_upwards_trend: GitHub Stats
 <div style="width: 100%; display: flex; align-items:center; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=karinaportuguez&show_icons=true&theme=dracula" />
@@ -32,7 +33,7 @@ I like to learn a lot about technologies for web and robotics development. I lik
 
 
 
-<!--
+
 **karinaportuguez/karinaportuguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
