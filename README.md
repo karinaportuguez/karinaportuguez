@@ -171,8 +171,9 @@ I have 3 years of experiens working whit technologies such as React Js, bootstra
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [karinaportuguezh@gmail.com](mailto:karinaportuguezh@gmail.com)
-* 🚀  I'm currently working on [Mariachi.IO](http://mariachi.io/)
-* 🧠  I'm learning Kotlin
+* 🚀  I'm currently working on [Despensa en Linea](https://www.despensaenlinea.mx) and  [Mariachi .IO](https://www.mariachi.io)
+* 🧠  I'm perfecting my knowledge in React Js
+* 🌱  I'm currently learning Kotlin
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/https://twitter.com/Sango_Wolf" target="_blank" rel="noreferrer"><img
