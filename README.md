@@ -1,4 +1,4 @@
-Hi <img src="./assets/shake.gif" width="30px !important"> My name is Karina Portuguez
+Hi <img src="./assets/shake.gif" style="display: block; opacity: 1; width: 30px" > My name is Karina Portuguez
 =================================
 
 I'm Front-End Developer
