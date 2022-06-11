@@ -176,10 +176,12 @@ I have 3 years of experiens working whit technologies such as React Js, bootstra
 * 🌱  I'm currently learning Kotlin
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/https://twitter.com/Sango_Wolf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://twitter.com/Sango_Wolf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/karinaportuguez" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/karinaportuguez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://twitter.com/Sango_Wolf" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/https://twitter.com/Sango_Wolf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<a href="https://www.github.com/karinaportuguez" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/karinaportuguez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ### Skills
 
